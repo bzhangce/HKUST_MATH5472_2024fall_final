@@ -8,3 +8,6 @@ This is HKUST MATH5472 Fall 2024 report - Non-negative Matrix Factorization Algo
     conda env create -f environment.yml
     conda activate CASIA2024-final
     ```
+### Run experiments
+Run `notebook/simulation.ipynb` to get the result of simulated data.
+Run `notebook/nips.ipynb` to get the result of NIPS 1-17 data.
