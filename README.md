@@ -1,4 +1,5 @@
-This is HKUST MATH5472 Fall 2024 report - Non-negative Matrix Factorization Algorithms Greatly Improve Topic Model Fits
+This is HKUST MATH5472 [[link](https://sites.google.com/site/eeyangc/teaching/math-5472-computer-age-statistical-inference-and-its-applications)] Fall 2024 final report.
+Report - Non-negative Matrix Factorization Algorithms Greatly Improve Topic Model Fits [[link](https://arxiv.org/abs/2105.13440)]
 
 ### Installing the software
 1. Git clone this repository.
